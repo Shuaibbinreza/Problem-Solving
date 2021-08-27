@@ -1,0 +1,12 @@
+git remote add origin git@github.com:Shuaibbinreza/Problem-Solving.git
+git branch -M main
+git push -u origin main
+
+
+echo "# Problem-Solving" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Shuaibbinreza/Problem-Solving.git
+git push -u origin main
